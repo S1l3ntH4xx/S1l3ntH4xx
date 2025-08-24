@@ -33,7 +33,7 @@ Let's connect, learn, and secure the digital world together! 🤓💻 </p>
 
 - 📝 I regularly write articles on [https://myteachworld.com/](https://myteachworld.com/)
 
-- 📫 How to reach me **aditya1391998@gmail.com**
+- 📫 How to reach me **apsingh.infosec@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
